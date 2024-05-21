@@ -1,5 +1,3 @@
-Berikut adalah penjelasan rinci tentang bagaimana program bekerja untuk memasukkan data ke dalam sirkular double linked list, mencetak list sebelum dan sesudah pengurutan, serta mengurutkan node dalam list tanpa mengubah data:
-
 ### 1. Struktur Node
 ```c
 typedef struct Node {
